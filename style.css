@@ -1,6 +1,9 @@
-body{
+body {
   background-color: wheat;
 }
-h1,p{
-    text-align: center;
+h1 {
+  text-align: center;
+}
+p {
+  text-align: center;
 }
