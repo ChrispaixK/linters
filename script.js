@@ -2,4 +2,4 @@ let welcome=(student)=>{
     console.log(`Hello ${student}, welcome to microverse!`)
 }
 
-welcome("student_name")
+welcome("kirikou")
